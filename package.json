@@ -1,7 +1,7 @@
 {
   "name": "hotel-app",
   "version": "0.0.1",
-  "author": "Diep <diepnv4@fsoft.com.vn>",
+  "author": "Diep <mr.vdiep@gmail.com>",
   "description": "hotel management application",
   "license": null,
   "main": "./dist/electron/main.js",
