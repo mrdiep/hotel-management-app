@@ -62,7 +62,7 @@
     "bootstrap": "^4.4.1",
     "bootstrap-vue": "^2.1.0",
     "jquery": "^3.4.1",
-    "knex": "^0.20.6",
+    "knex": "^2.4.0",
     "moment": "^2.24.0",
     "mssql": "^6.0.1",
     "mysql": "^2.17.1",
